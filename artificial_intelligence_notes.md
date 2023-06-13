@@ -6,6 +6,10 @@
 
 "The area of computer science that studies how machines can closely imitate human intelligence."
 
+
+**Machine learning:** Is a subset of Artificial Intelligence (AI) that focuses on getting machines to make decisions by feeding them data.  
+**Deep learning:** Is a subset of Machine Learning that uses the concept of neural networks to solve complex problems.
+
 **Examples**
 
 - Self driven cars  
@@ -50,5 +54,15 @@ The machine passes the test if the interrogator is unable to teel which one is t
 	- Operational performance including CPU utilization, memory usage, disk usage, network traffic, latency (the time it takes for data transfer to occur), throughput (the amount of data succesfully transferred).
 
 
+**Feature selection** (or variable/attribute selection)
 
+- Method to select features from an initial dataset.  
+- This is an important part which can: shorten training time, simplify models and enhance testing set performance.
+
+- Redundant features: doesn't provide much nre information.  
+- Irrelevant feature: Low correlation to target feature --> noise.
+
+
+
+- 
 
