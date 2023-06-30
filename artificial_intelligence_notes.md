@@ -66,3 +66,10 @@ The machine passes the test if the interrogator is unable to teel which one is t
 
 **Unsupervised learning:** No reliance on labeled data.
 
+**Binarization:** converting numerical values into boolean values.
+
+**Mean removal:** To remove bias from the features.
+
+
+
+
