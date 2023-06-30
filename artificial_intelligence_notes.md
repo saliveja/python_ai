@@ -66,10 +66,21 @@ The machine passes the test if the interrogator is unable to teel which one is t
 
 **Unsupervised learning:** No reliance on labeled data.
 
-**Binarization:** converting numerical values into boolean values.
+**Binarization:** converting numerical values into boolean values --> zero and one.
 
-**Mean removal:** To remove bias from the features.
+**Mean (average) removal:** To remove bias from the features. 
 
+**Normalization:** Scaling data to be analyzed within a specific range, aim to modify the values so that they sum up to 1. Makes creating, sorting and searching indexes searching faster, less redundant data.
+
+**L1 & L2 normalization**
+
+L1-norm also knows as least absolute deviations (LAD), which minimizes the sum of the absolute differences between the target value and the estimated values.
+L1-norm can be summarized as robust, unstable solution and possibly multiple solutions.
+
+L2-norm also known as least squares error (LSE) minimizes the sum of the square of the differences between the target value and the estimated values.
+L2 norm can be summarized as not very robust, stable solution and always one solution.
+
+"The method of least absolute deviations finds applications in many areas, due to its robustness compared to the least squares method. Least absolute deviations is robust in that it is resistant to outliers in the data. This may be helpful in studies where outliers may be safely and effectively ignored. If it is important to pay attention to any and all outliers, the method of least squares is a better choice."
 
 
 
