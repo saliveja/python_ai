@@ -62,7 +62,7 @@ The machine passes the test if the interrogator is unable to teel which one is t
 - Redundant features: doesn't provide much nre information.  
 - Irrelevant feature: Low correlation to target feature --> noise.
 
+**Supervised learning:** feeding information via labeled training.
 
-
-- 
+**Unsupervised learning:** No reliance on labeled data.
 
