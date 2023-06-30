@@ -82,5 +82,5 @@ L2 norm can be summarized as not very robust, stable solution and always one sol
 
 "The method of least absolute deviations finds applications in many areas, due to its robustness compared to the least squares method. Least absolute deviations is robust in that it is resistant to outliers in the data. This may be helpful in studies where outliers may be safely and effectively ignored. If it is important to pay attention to any and all outliers, the method of least squares is a better choice."
 
-
+**label encoding:** Converting words into numbers.
 
